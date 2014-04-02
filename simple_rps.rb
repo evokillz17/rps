@@ -1,0 +1,4 @@
+OUTCOMES = {"rock" => {},
+            "paper" =>{},
+            "scissors" => {}
+            }
